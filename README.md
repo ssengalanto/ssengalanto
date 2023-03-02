@@ -6,6 +6,6 @@ This is the place where I enjoy working on stuff unpaid 🤣
 - 🚀 I just recently launched v1 of [Midt](https://github.com/ssengalanto/midt).
 - 🌱  I’m currently learning and improving my skills on Software Engineer, Software Architecture, Distributed Systems, AWS, DevOps, and English Language.
 - 💬  Ask me about anything related to Go, TypeScript, React, Distributed Systems, Software Design, and Unit test.
-- 📖 I’m currently reading [Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now) by Eckhart Tolle.
+- 📖 I’m currently reading [Building a Second Brain](https://www.goodreads.com/en/book/show/59616977) by Tiago Forte.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/ssen-galanto/) or email at iam.ssengalanto@gmail.com
 - ⚡  Fun fact: I ❤️ 🐶s and Playstation 🎮 (ID: ssen-galanto)
