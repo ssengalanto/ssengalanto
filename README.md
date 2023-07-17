@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **Software Engineer** and a **DevOps Practitioner** who enjoys working on open-source/personal projects in my free time.
 
 - 💻 I'm proficient in both **Golang** and **TypeScript**.
-- 🔭  I’m currently working on some Golang projects namely [**Hex**](https://github.com/ssengalanto/hex) and [**Biscuit**](https://github.com/ssengalanto/biscuit).
+- 🔭  I’m currently working on some Golang projects namely [**Hex**](https://github.com/ssengalanto/hex) and [**Runic**](https://github.com/ssengalanto/runic).
 - 🚀 I just recently launched v1 of [**Midt**](https://github.com/ssengalanto/midt).
 - 🌱 I'm constantly learning and improving my skills in various areas, including **Software Engineering**, **Software Architecture**, **Distributed Systems (EDA)**, **AWS**, and **DevOps**.
 - 💬 Feel free to ask me anything related to **Golang**, **TypeScript**, **Distributed Systems**, **Software Design**, and **Unit testing**.
