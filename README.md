@@ -7,4 +7,4 @@ Welcome to my GitHub profile! I'm a **Software Engineer** and a **DevOps Practit
 - 💬 Feel free to ask me anything related to **Golang**, **TypeScript**, **Distributed Systems**, **Software Design**, and **Unit testing**.
 - 📖 I’m currently reading [**The Lean Startup**](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries.
 - 📫 How to reach me: You can find me on [**Linkedin**](https://www.linkedin.com/in/ssen-galanto/) or send me an email at **iam.ssengalanto@gmail.com**.
-- 🎾 I'm a Tennista 
+- 🎾 I'm a **Tennista** 
