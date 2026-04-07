@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm a **Software Engineer** and a **DevOps Practitioner** who enjoys working on open-source/personal projects in my free time.
+Welcome to my GitHub profile! I'm a **Software Engineer** who enjoys working on open-source/personal projects in my free time.
 
 - 💻 I'm proficient in both **Golang** and **TypeScript**.
 - 🌱 I'm constantly learning and improving my skills in various areas, including **Software Engineering**, **Software Architecture**, **Sytem Infrastructure**, **AI Fluency**.
