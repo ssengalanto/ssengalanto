@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** who enjoys working on 
 
 - 💻 I'm proficient in both **Golang** and **TypeScript (Node.js)**.
 - 🌱 I'm constantly learning and improving my skills in various areas, including **Software Engineering**, **Software Architecture**, **System Infrastructure**, **AI Fluency**.
-- 💡 Currently getting my hands busy with AI - LLM, MCP, Prompt Engineering, RAG, Claude Code, Claude API integration
+- 💡 Currently getting my hands busy with AI - LLM, MCP, Prompt Engineering, Context Engineering, RAG, Claude Code, Claude API integration.
 - 📖 I’m currently reading [**AI Engineering**](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by Chip Huyen.
 - 🎮 I play Pokémon VGC/TCG competitively in my free time.
 - 📫 How to reach me: You can find me on [**Linkedin**](https://www.linkedin.com/in/ssen-galanto/) or send me an email at **iam.ssengalanto@gmail.com**.
